@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Dice Roller</string>
+    <string name="tv_Numeros">1</string>
+    <string name="btn_roller">Roller</string>
+    <string name="btn_cuenta">Cuenta ascendente</string>
+    <string name="btn_Restablecer">Restablecer</string>
+</resources>
